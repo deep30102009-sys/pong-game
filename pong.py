@@ -202,7 +202,7 @@ while True:
             ball.setx(-340)
             ball.dx *= -1 
             winsound.Beep(459,32)
-
+#this file ill only run on windos .
    
 
       
